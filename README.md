@@ -19,7 +19,7 @@ CH 1,2,3,4,8
 
 #### The ISM bands
 * I(industrial), S(Scientific), M(Medical)
-* IMS bands allow license-free operation, provided the devices comply with power constraints.
+* ISM bands allow license-free operation, provided the devices comply with power constraints.
     * 802.11b and 802.11g devices operate within the 2.4GHz ISM band
     * 802.11a devices operate in the 5GHz band.
 
