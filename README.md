@@ -3,9 +3,6 @@
 * [Book PDF](https://paginas.fe.up.pt/~ee05005/tese/arquivos/ieee80211.pdf) 
 
 
-CH 1,2,3,4,8
-
-
 ## Ch1 Introduction to Wireless Networking
 
 ### Why Wireless?
